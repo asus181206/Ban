@@ -1,0 +1,2 @@
+# Ban
+Bot discord
